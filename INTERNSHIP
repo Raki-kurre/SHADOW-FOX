@@ -1,1 +1,5 @@
+# Creating the variable 'pi' and assigning the value 22/7
+pi = 22 / 7
 
+# Checking the data type of the variable 'pi'
+print(type(pi))
